@@ -1,0 +1,10 @@
+/* font-family: 'Poiret One', cursive;
+font-family: 'Lexend Deca', sans-serif;
+font-family: 'Roboto', sans-serif; */
+header__logo-block {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 130px;
+  background-color: #acb195;
+}
